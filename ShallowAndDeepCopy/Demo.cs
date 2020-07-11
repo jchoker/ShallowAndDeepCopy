@@ -37,7 +37,6 @@
     public class InnerClass
     {
         public int InnerValueType; // value type field
-
         // for simplicity no reference fields
 
         public InnerClass DeepCopy()
